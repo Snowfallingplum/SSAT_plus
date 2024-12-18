@@ -9,7 +9,7 @@ This is the official pytorch code for **"SSAT++: A Semantic-Aware and Versatile 
 
 ## News
 
-+ Our paper SHMT was accepted by NeurIPS2024. 
++ Our paper SHMT was accepted by NeurIPS2024. [Paper link](https://arxiv.org/abs/2412.11058) and [code link](https://github.com/Snowfallingplum/SHMT).
 
 + Our paper CSD-MT was accepted by CVPR2024. [Paper link](https://arxiv.org/abs/2405.17240) and [code link](https://github.com/Snowfallingplum/CSD-MT).
 
@@ -34,7 +34,7 @@ conda activate SSAT
 
 ## Quick Start
 1. Download the pre trained model and place it in the weights folder. [Baidu Drive](https://pan.baidu.com/s/1c1P8YIZPgv39jU4ufoIcsw), password: 7pim.
-2. We have provided some examples, just run *inferrence.py* directly. ``` python inference.py```
+2. We have provided some examples, just run *inference.py* directly. ``` python inference.py```
 
 ## How to test a custom dataset
 
